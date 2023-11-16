@@ -8,3 +8,5 @@ Contributions
 Le but a été de créer un quiz unique et efficace d'utilisation. 
 Mes contributions ont étés de styliser plusieurs aspect de ce site, dont les boutons de réponses ou l'aspect visuelle de la page. La création de la page d'accueil et du contenu des question en font aussi partie.
 Les contributions amènent à reporter des bugs ou erreurs, proposer des nouvelles fonctionnalités et à revoir l'état du code.
+
+Effectué avec le cours Edx Javascript Introduction.
