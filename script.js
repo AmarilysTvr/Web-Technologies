@@ -314,8 +314,8 @@ function gameOver() {
     //we clear the div
     questionDiv.innerHTML = "";
 
-    questionDiv.innerHTML = "The game is over ! Your final score is : " + scoreGlobal 
-    + ".  The actual answer were : a-b-a-a-d-d-a-b-a-a-a-a-a-a-b-c-a-a-b-c-a-a-a-a-d";
+    questionDiv.innerHTML = "The game is over ! Your final score is : " + scoreGlobal + "/25."
+    + "<br>  The actual answer were : a-b-a-a-d-d-a-b-a-a-a-a-a-a-b-c-a-a-b-c-a-a-a-a-d";
 
     //modification du style de l'écriture
     gameOverMessage.style.fontFamily ='Merriweather, sans-serif';
