@@ -107,7 +107,7 @@ let tableauQuestions = [
     {
     question: "What is one of the most known quote, or its variant, in the Spider-man movies.",
     answers: ["a. I have a bad feeling about this", "b. I'm Batman", "c. It's a bird! It's a plane! It's Superman", "d. With great power comes great responsability"],
-    correctAnswer: 0,
+    correctAnswer: 3,
     image: "https://fr.web.img5.acsta.net/medias/nmedia/00/00/00/33/spiderman.jpg",
     largeurImage:"300px",
     score:1,
@@ -116,7 +116,7 @@ let tableauQuestions = [
     {
     question: "How old is baby Yoda in the Mandalorian? Knowing that Yoda lived to the age of 900.",
     answers: ["a. 1 year old", "b. 500 years old", "c. 50 years old"],
-    correctAnswer: 0,
+    correctAnswer: 2,
     image: "https://hips.hearstapps.com/hmg-prod/images/the-mandalorian-chapter-14-disney-2-1607076828.jpeg",
     largeurImage:"600px",
     score:1,
