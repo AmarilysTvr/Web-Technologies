@@ -257,6 +257,7 @@ function displayQuestion(currentQuestion) {
     questionImage.src = tableauQuestions[currentQuestion].image;
     questionImage.style.width = tableauQuestions[currentQuestion].largeurImage;
     questionDiv.appendChild(questionImage);
+    questionImage.classList.add("quiz-image");
 
     // we display the title of the question
     let questionTitle = document.createElement('h3');
